@@ -12,5 +12,12 @@
     "href": "https://freefastpassword.com",
     "color": "#1978e5",
     "excludeOn": ["freefastpassword.com"]
+  },
+  {
+    "id": "pomo",
+    "text": "Boost focus with our free Pomodoro Timer – coming soon!",
+    "href": "",
+    "color": "#ff6b6b",
+    "excludeOn": ["pomodorotimerfree.com"]
   }
 ]

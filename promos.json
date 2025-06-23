@@ -1,0 +1,16 @@
+[
+  {
+    "id": "qr",
+    "text": "Need a free QR code? Try FreeFastQR!",
+    "href": "https://freefastqr.com",
+    "color": "#1978e5",
+    "showAd": true
+  },
+  {
+    "id": "password",
+    "text": "Generate strong passwords at FreeFastPassword.",
+    "href": "https://freefastpassword.com",
+    "color": "#1978e5",
+    "showAd": true
+  }
+]
